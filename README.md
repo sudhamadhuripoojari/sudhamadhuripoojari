@@ -6,7 +6,7 @@ Originally from India 🇮🇳 and living in Sweden 🇸🇪.
 
 I am a versatile professional with a background in **Mechanical Engineering** and a passion for technology and web development. My journey into the tech industry began with a role as a Technical Writer, where I honed my ability to effectively communicate complex information.
 
-Driven by a desire to broaden my skill set, I pursued a diploma in **Frontend Development** 👨‍💻 at Hyper Island in Stockholm. This intensive program provided me with hands-on experience in building modern and visually appealing web applications, using technologies such as React, Javascript, Figma and HTML/CSS.
+Driven by a desire to broaden my skill set, I pursued a diploma in **Frontend Development** 👨‍💻 at Hyper Island in Stockholm. This two year program provided me with hands-on experience in building modern and visually appealing web applications, using technologies such as React, Javascript, Figma and HTML/CSS.
 
 Currently, I am thriving as a Full Stack Developer at Salt organization, where I actively contribute to the development of innovative and scalable web solutions. 
 
