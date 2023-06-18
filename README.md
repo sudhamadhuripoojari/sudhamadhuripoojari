@@ -15,6 +15,6 @@ Through my diverse experiences and continuous learning, I bring a unique blend o
 🌱 I’m currently learning SpringBoot
 💬 Ask me about Java, React, JavaScript, HTML, CSS, Sass, Node, Git, Storybook, Typescript, Figma
 📫 How to reach me poojari.sudha@gmail.com
-📄 Know about my experiences [Link Text](https://www.linkedin.com/in/sudha-madhuri-poojari/)
+📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sudha-madhuri-poojari/)
 🧘 🎂 Love doing Yoga and baking cakes
 
