@@ -1,5 +1,4 @@
-### Hi Everyone!! 👋 ![image](https://github.com/sudhamadhuripoojari/sudhamadhuripoojari/assets/89774176/6754fbd8-eae5-44b8-aee4-0b20760f88d3)
- I am Sudha Madhuri Poojari
+### Hi Everyone!! 👋 I am Sudha Madhuri Poojari
 A Fullstack developer from Stockholm, Sweden 
 
 **About Me**                                                                                                                                 
