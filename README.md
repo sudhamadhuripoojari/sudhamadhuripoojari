@@ -12,9 +12,9 @@ Currently, I am thriving as a Full Stack Developer at Salt organization, where I
 
 Through my diverse experiences and continuous learning, I bring a unique blend of technical knowledge, creative problem-solving skills, and effective communication to every project I undertake.
 
--🌱 I’m currently learning SpringBoot
--💬 Ask me about Java, React, JavaScript, HTML, CSS, Sass, Node, Git, Storybook, Typescript, Figma 
--📫 How to reach me poojari.sudha@gmail.com
--📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sudha-madhuri-poojari/)
--🧘 🎂 Love doing Yoga and baking cakes
+🌱 I’m currently learning SpringBoot       \n
+💬 Ask me about Java, React, JavaScript, HTML, CSS, Sass, Node, Git, Storybook, Typescript, Figma               \n
+📫 How to reach me poojari.sudha@gmail.com
+📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/sudha-madhuri-poojari/)
+🧘 🎂 Love doing Yoga and baking cakes
 
