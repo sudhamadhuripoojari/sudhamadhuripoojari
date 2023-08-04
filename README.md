@@ -2,7 +2,7 @@
 A Fullstack developer from Stockholm, Sweden 
 
 **About Me**                                                                                                                                 
-Originally from India 🇮🇳 and living in Sweden 🇸🇪. 
+Originally from India and living in Sweden. 
 
 I am a versatile professional with a background in **Mechanical Engineering** and a passion for technology and web development. My journey into the tech industry began with a role as a Technical Writer, where I honed my ability to effectively communicate complex information.
 
